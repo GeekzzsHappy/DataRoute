@@ -23,3 +23,5 @@ exports.sysCheck=function () {
 ////5555555555
 
 ////6666666666666
+
+///zzs 同步
